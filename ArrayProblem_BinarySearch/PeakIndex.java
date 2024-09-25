@@ -1,5 +1,5 @@
 package ArrayProblem_BinarySearch;
-
+//https://leetcode.com/problems/peak-index-in-a-mountain-array/description/
 public class PeakIndex {
     public static int findPeakElement(int[] nums) {
         if (nums.length == 1)
