@@ -1,6 +1,6 @@
 package ArrayProblem_BinarySearch;
 
-public class SearchInRotatedArray {
+public class SearchInRoatedArray {
     public static int search(int[] nums, int target) {
         int left = 0;
         int right = nums.length - 1;
