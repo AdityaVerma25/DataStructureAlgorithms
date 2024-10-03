@@ -2,7 +2,7 @@
 //https://leetcode.com/problems/concatenation-of-array/submissions/1410327018/
 public class ConcatArray {
     public static int[] cancatArray(int[] array, int n) {
-        int[] ans = new int[1 * n];
+        int[] ans = new int[2 * n];
         for (int i = 0; i < n; i++) {
             ans[i] = array[i];
         }
